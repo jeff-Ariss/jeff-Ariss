@@ -53,4 +53,12 @@ I’m passionate about building scalable web applications, optimizing data struc
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 <!--most used languages-->
+## 📈 GitHub Stats
+<p align="center">
+<a href="https://github.com/jeff-Ariss">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanalzate82212&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanalzate82212&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
+</a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
