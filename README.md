@@ -56,8 +56,8 @@ I’m passionate about building scalable web applications, optimizing data struc
 ## 📈 GitHub Stats
 <p align="center">
 <a href="https://github.com/jeff-Ariss">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanalzate82212&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanalzate82212&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeff-Ariss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeff-Ariss&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
 </a>
 </p>
 
